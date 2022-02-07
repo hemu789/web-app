@@ -78,9 +78,9 @@ li:first-child{
 li:last-child{
   font-style: italic;  
 }
-li:nth-child(2){
+/* li:nth-child(2){
     color:red;
 }
 li:nth-child(odd){
     color:green;
-}
+} */
