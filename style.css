@@ -84,3 +84,7 @@ li:last-child{
 li:nth-child(odd){
     color:green;
 } */
+
+a:link{
+    color:#1098ad;
+}
