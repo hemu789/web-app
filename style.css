@@ -102,3 +102,22 @@ a:active{
     background-color: black;
     font-style: italic;
 }
+
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+.author-box{
+    display: flex;
+    align-items: center;
+    
+}
+.author-box p{
+    margin-left: 15px;
+}
+
+
